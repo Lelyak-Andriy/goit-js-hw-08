@@ -60,4 +60,5 @@ function populateEmail() {
         console.log(savedEmail);
         refs.input.value = savedEmail;
     }
+    
  }
